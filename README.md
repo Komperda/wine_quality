@@ -1,2 +1,7 @@
-# wine_quality
-Machine Learning Project Modeling Wine Quality
+# Modeling Of the Effects Of Physiochemical Attributes On Red And White Wine Quality
+
+
+This study examines forecasting wine quality by employing traditional statistical techniques and modern machine learning algorithms. The dataset consists of red and white wine samples, each defined by 11 chemical attributes including pH, density, and acidity. Through a comprehensive analysis we applied logistic regression and tree-based classifiers to predict wine quality based on these features.
+Initially, we conducted classical statistical analyses, including logistic regression, on both red and white wine datasets. Afterward, we applied machine learning techniques, encompassing logistic regression and tree-based classifiers like decision trees and random forests. We assessed the models using metrics such as accuracy, F1 score, geometric mean, and utilized confusion matrices to gain further insights into the models' performance.
+The results demonstrated promising predictive capabilities, with machine learning models outperforming classical statistical approaches. Notably, tree-based models exhibited superior performance, achieving high F1 scores and geometric means. These findings suggest the potential for robust predictive modeling of wine quality, offering valuable insights for wine producers and enthusiasts alike. Further exploration and refinement of these models could yield even more accurate predictions and deeper understanding of wine quality determinants.
+
